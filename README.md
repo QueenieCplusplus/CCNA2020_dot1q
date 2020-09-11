@@ -9,3 +9,7 @@ IEEE 802.1q defines VLAN tag
 # 802.1q header
 
 為原始影格 frame 多加入 802.1q header 欄位，此標頭含有四個欄位，最主要是 TPID 與 VID。
+
+# VLAN 架構
+
+是 IT 部門為企業的內部實體網路再切出個別讀了的邏輯網路端。
