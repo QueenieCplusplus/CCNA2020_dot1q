@@ -36,3 +36,4 @@ IEEE 802.1q defines VLAN tag
 
              int Gi0/1
              switchport mode access
+             switchport access vlan234
