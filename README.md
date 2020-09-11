@@ -16,6 +16,8 @@ IEEE 802.1q defines VLAN tag
 
 # VLAN 標籤
 
+原理是 edge switch 幫 frame 標記適當的 vlan id，該 frame 傳送到部門下相對應的設備下則該標識會被移除。
+
 能幫助影格在傳送過程中（廣播）, 不會被其他不相干的部門設備嗅探。
 
 且可使多個 VLAN 用一個連接多路復用。
