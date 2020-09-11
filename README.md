@@ -24,3 +24,15 @@ IEEE 802.1q defines VLAN tag
 
 此阜是用於 Switcher 與 Switcher 之間溝通 VLAN 的介面。
 
+設定方式：
+
+
+             int Gi0/12
+             switchport mode trunk
+
+
+設定到主機的方式：
+
+
+             int Gi0/1
+             switchport mode access
