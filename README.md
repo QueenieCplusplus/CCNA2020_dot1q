@@ -42,4 +42,4 @@ IEEE 802.1q defines VLAN tag
 
 # Switch port ( access port )
 
-交換器原則上是一個阜配置一個 VLAN， 同一 VLAN 上的所有終端裝置共享同一廣播網域 Broadcast Domain。
+交換器原則上是一個阜配置一個 VLAN， 同一 VLAN 上的所有阜共享同一廣播網域 Broadcast Domain。
