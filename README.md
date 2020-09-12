@@ -28,12 +28,16 @@ IEEE 802.1q defines VLAN tag
 
 設定方式：
 
+https://www.netadmin.com.tw/netadmin/zh-tw/feature/0C1A2DDB3CF94296864832049D8897A4
+
 
              int Gi0/12
              switchport mode trunk
 
 
 設定到主機的方式：
+
+https://www.netadmin.com.tw/netadmin/zh-tw/feature/0C1A2DDB3CF94296864832049D8897A4
 
 
              int Gi0/1
